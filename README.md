@@ -19,10 +19,6 @@ O resultado é que vai mostarr um texto onde vai mostar o resustaldo da variáve
 
 ## Operador de comparação
 operador de comparação compara seus operandos e retorna um valor lógico baseado em se a comparação é verdadeira. Os operandos podem ser numéricos, strings, lógicos ou objetos.
-
-
-## If e else & switch e case
-Como o próprio nome diz, é um código que traz a a ideia de condição.
 ex:
 "==" (é igual a...)
 "!=" (não é igual a...)
@@ -30,6 +26,9 @@ ex:
 "<" (menor que...)
 ">=" (maior o igual a...)
 "<=" (menor ou igual a...)
+
+## If e else & switch e case
+Como o próprio nome diz, é um código que traz a a ideia de condição.
 
 const name = prompt("Qual é o seu nome?")
 
