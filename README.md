@@ -26,7 +26,7 @@ Támbem temos o switch e case, que trazem a mesma ideia do "if e else", mas com 
     alert("1 de janeiro: Dia mundial da paz")
     break;
 
-#Array
+## Array
 É usado para declarar e organizar variaveis pelos seus valores, algo idêntico a escrever uma lista e chamar algum elemento da lista.
 ex:
 //const arr = ["sport", "naútico", "santa cruz"];
