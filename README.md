@@ -4,7 +4,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 # Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-#If e else & switch e case
+## If e else & switch e case
 Como o próprio nome diz, é um código que traz a a ideia de condição.
 ex:
 const name = prompt("Qual é o seu nome?")
