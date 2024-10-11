@@ -2,10 +2,10 @@
 Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
 
-### Conteúdo Técnico
+#### Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-##If e else
+###If e else
 Como o próprio nome diz, é um código que traz a a ideia de condição.
 ex:
 const name = prompt("Qual é o seu nome?")
