@@ -1,11 +1,10 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
 Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
-.
 
 #### Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-###If e else
+###If e else & switch e case
 Como o próprio nome diz, é um código que traz a a ideia de condição.
 ex:
 const name = prompt("Qual é o seu nome?")
@@ -18,6 +17,14 @@ const name = prompt("Qual é o seu nome?")
 
 Esse código fala que se o "name" for "Gustavo", então o console.log vai dizer "Welcome Gustavo",
 caso seja outro nome então o console vai mostar "Não sabia que teu nome era esse Gustavo, for mal kkkk".
+
+Támbem temos o switch e case, que trazem a mesma ideia do "if e else", mas com diferenças de código, veja:
+ const mês = prompt("Escreva um mês do ano para sber algum feriado desse mês");
+
+ switch(mês){
+    case "janeiro" || "Janeiro":
+    alert("1 de janeiro: Dia mundial da paz")
+    break;
 
 ##Array
 É usado para declarar e organizar variaveis pelos seus valores, algo idêntico a escrever uma lista e chamar algum elemento da lista.
