@@ -4,15 +4,39 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 # Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
+## String
+É um dado que armazena um número, texto ou símbolo
+ex: 
+const a = 5
+const b = 10
+
+const calcular = (a*b) + (a*b)
+
+console.log(`o resultado é ${calcular}`)
+
+esse código mostra duas strings, o "a" e o "b", cada string tem um valor, e o console vai chamar uma outra string(calcular).
+O resultado é que vai mostarr um texto onde vai mostar o resustaldo da variável calcular.
+
+## Operador de comparação
+operador de comparação compara seus operandos e retorna um valor lógico baseado em se a comparação é verdadeira. Os operandos podem ser numéricos, strings, lógicos ou objetos.
+
+
 ## If e else & switch e case
 Como o próprio nome diz, é um código que traz a a ideia de condição.
 ex:
+"==" (é igual a...)
+"!=" (não é igual a...)
+">" (maior que...)
+"<" (menor que...)
+">=" (maior o igual a...)
+"<=" (menor ou igual a...)
+
 const name = prompt("Qual é o seu nome?")
 
   if (name == " Gustavo") {
-    //console.log(`Welcome ${name}`)
+    console.log(`Welcome ${name}`)
   } else {
-    //console.log(`Não sabia que teu nome era esse ${name}, for mal kkkk`)
+    console.log(`Não sabia que teu nome era esse ${name}, for mal kkkk`)
   }
 
 Esse código fala que se o "name" for "Gustavo", então o console.log vai dizer "Welcome Gustavo",
@@ -40,5 +64,6 @@ o segundo console vai mostrar o segundo elemento(1), que é o "naútico"
 já o terceiro vai mostar o o terceiro elemento, que é o santa cruz, já que ele está pegando todos os elementos que está na array(que saõ 3 elementos) e diminui -1, o que vai retornar o terceiro elemento(2).
 
 ### Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+https://codepen.io/Arthur-Levay/pen/OJKXexW
+https://codepen.io/Arthur-Levay/pen/KKjvmRz
 
